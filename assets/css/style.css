@@ -31,7 +31,8 @@
   }
 
   #bandanapic{
-    width: 50%
+    width: 50%;
+    height: 50%;
   }
   .parallax { 
       /* The image used */
